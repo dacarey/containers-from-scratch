@@ -1,9 +1,9 @@
 # Containers from Scratch
-Writing a container in a few lines of Go code, as seen at [DockerCon 2016](https://www.youtube.com/watch?v=MHv6cWjvQjM&t=1316s) and on [O'Reilly Safari](https://www.safaribooksonline.com/library/view/how-to-containerize/9781491982310/)
+Writing a container in a few lines of Go code, as demonstrated by Liz Rice at [DockerCon 2016](https://www.youtube.com/watch?v=MHv6cWjvQjM&t=1316s) and on [O'Reilly Safari](https://www.safaribooksonline.com/library/view/how-to-containerize/9781491982310/)
 
-This is forked from Liz Rice's original repository,  purely to allow me to add some extra setup notes
+This is forked from Liz Rice's original repository, purely to allow me to add some extra setup notes for a local demonstration to developers at the company i work at.
 
-Massive kudos to Liz for this. It really showcases how the underlying concepts of cgroups,  namespaces,  chrooted file systems ( a.k.a images) can be put together to form the bigger concept of a 'container'
+Massive kudos to Liz for this. It really showcases how the underlying concepts of cgroups,  namespaces,  chrooted file systems ( a.k.a images) can be put together to form the bigger concept of a 'container'.  They say *'a picture is worth a thousand words'*,  well there is a similar analogy with this demo!
 
 
 ##   How I run this on Linux
